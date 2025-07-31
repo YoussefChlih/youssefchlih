@@ -8,7 +8,7 @@
   
 [![Email](https://img.shields.io/badge/Email-youssefchlih.ai@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youssefchlih.ai@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20CHLIH-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-chlih)
-[![Phone](https://img.shields.io/badge/Phone-0606544498-green?style=flat-square&logo=phone&logoColor=white)](tel:0606544498)
+[![Phone](https://img.shields.io/badge/Phone-0606544498-green?style=flat-square&logo=phone&logoColor=white)])
 
 </div>
 
