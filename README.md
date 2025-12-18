@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
 
-**AI Specialist Technician and Data Engineering Expert** with comprehensive training and hands-on experience in cutting-edge technologies. Specialized in Machine Learning, Deep Learning, and Natural Language Processing with a passion for solving complex problems through innovative AI solutions.
+**Bachelor Student in Big Data and AI** with comprehensive training and hands-on experience in cutting-edge technologies. Specialized in Machine Learning, Deep Learning, and Natural Language Processing with a passion for solving complex problems through innovative AI solutions.
 
 - 🔭 Currently working on **3D Object Recognition Systems** and **AI-powered Recruitment Platforms**
 - 🌱 Continuously learning **Advanced MLOps** and **Generative AI**
