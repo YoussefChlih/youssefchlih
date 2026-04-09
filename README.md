@@ -6,6 +6,7 @@
    ██║   ╚██████╔╝╚██████╔╝███████║███████║███████╗██║         ╚██████╗██║  ██║███████╗██║██║  ██║
    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝          ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
 ```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=🤖+Building+Intelligent+Systems+from+Scratch;👁️+Computer+Vision+%7C+3D+%7C+YOLOv8+%7C+OpenCV;🧠+NLP+%7C+LLMs+%7C+RAG+Pipelines;⚙️+MLOps+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;🌐+Full-Stack+AI+%3A+React+%2B+FastAPI+%2B+Cloud" alt="Typing SVG" />
 <br/><br/>
 
 <a href="mailto:youssefchlih.ai@gmail.com"><img src="https://img.shields.io/badge/📧_Gmail-youssefchlih.ai@gmail.com-EA4335?style=for-the-badge&labelColor=0D1117"/></a>
