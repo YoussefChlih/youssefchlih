@@ -6,7 +6,24 @@
    ██║   ╚██████╔╝╚██████╔╝███████║███████║███████╗██║         ╚██████╗██║  ██║███████╗██║██║  ██║
    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝          ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
 ```
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=🤖+Building+Intelligent+Systems+from+Scratch;👁️+Computer+Vision+%7C+3D+%7C+YOLOv8+%7C+OpenCV;🧠+NLP+%7C+LLMs+%7C+RAG+Pipelines;⚙️+MLOps+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;🌐+Full-Stack+AI+%3A+React+%2B+FastAPI+%2B+Cloud" alt="Typing SVG" />
+<div align="center">
+  <img
+    src="https://github.com/YoussefChlih.png"
+    alt="Youssef CHLIH"
+    width="190"
+    style="
+      border-radius: 50%;
+      border: 3px solid #00D9FF;
+      outline: 3px solid rgba(123,47,255,0.5);
+      outline-offset: 5px;
+      box-shadow:
+        0 0 18px rgba(0,217,255,0.3),
+        0 0 40px rgba(123,47,255,0.12),
+        0 12px 35px rgba(0,0,0,0.45);
+      background: #0D1117;
+    "
+  />
+</div>
 <br/><br/>
 
 <a href="mailto:youssefchlih.ai@gmail.com"><img src="https://img.shields.io/badge/📧_Gmail-youssefchlih.ai@gmail.com-EA4335?style=for-the-badge&labelColor=0D1117"/></a>
