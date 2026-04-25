@@ -147,16 +147,17 @@ class YoussefCHLIH:
 ## 🛠️ Full Tech Stack
 
 ### 🤖 AI / Machine Learning
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<p align="left">
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/></a>
+  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow"/></a>
+  <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch"/></a>
+  <a href="https://keras.io"><img src="https://skillicons.dev/icons?i=keras" height="40" alt="Keras"/></a>
+  <a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/></a>
+  <a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/></a>
+  <a href="https://scikit-learn.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn"/></a>
+  <a href="https://streamlit.io"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" alt="Streamlit"/></a>
+  <a href="https://jupyter.org"><img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter"/></a>
 </p>
 
 `Supervised Learning` `Unsupervised Learning` `Deep Learning` `Transfer Learning` `Feature Engineering` `Model Evaluation` `Hyperparameter Tuning`
@@ -164,13 +165,13 @@ class YoussefCHLIH:
 ---
 
 ### 👁️ Computer Vision & 3D
-<p>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/DGCNN-0D1117?style=for-the-badge&color=00D9FF"/>
-<img src="https://img.shields.io/badge/3D_CNN-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Point_Cloud-0D1117?style=for-the-badge"/>
+
+<p align="left">
+  <a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV"/></a>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black" height="30" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/DGCNN-0D1117?style=for-the-badge&color=00D9FF" height="30" alt="DGCNN"/>
+  <img src="https://img.shields.io/badge/Point_Cloud-0D1117?style=for-the-badge" height="30" alt="Point Cloud"/>
+  <img src="https://img.shields.io/badge/3D_CNN-0D1117?style=for-the-badge" height="30" alt="3D CNN"/>
 </p>
 
 `DGCNN` `YOLOv8` `ResNet` `VGG` `EfficientNet` `GANs` `3D CNN`
@@ -179,12 +180,13 @@ class YoussefCHLIH:
 ---
 
 ### 🧠 NLP & Generative AI
-<p>
-<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge"/>
+
+<p align="left">
+  <a href="https://huggingface.co"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="HuggingFace"/></a>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" height="30" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" height="30" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge" height="30" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge" height="30" alt="Transformers"/>
 </p>
 
 `NER` `Text Classification` `Sentiment Analysis` `Embeddings` `RAG` `LLM Fine-tuning` `Prompt Engineering`
@@ -192,9 +194,10 @@ class YoussefCHLIH:
 ---
 
 ### 🎙️ Audio & Signal Processing
-<p>
-<img src="https://img.shields.io/badge/CNN--BiLSTM-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Librosa-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CNN--BiLSTM-0D1117?style=for-the-badge" height="30" alt="CNN-BiLSTM"/>
+  <img src="https://img.shields.io/badge/Librosa-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Librosa"/>
 </p>
 
 `Speech Emotion Recognition` `MFCC` `Mel-Spectrogram` `Voice Analysis` `Real-time Inference`
@@ -202,27 +205,29 @@ class YoussefCHLIH:
 ---
 
 ### 🌐 Web Development
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+<p align="left">
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/></a>
+  <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/></a>
+  <a href="https://mui.com"><img src="https://skillicons.dev/icons?i=mui" height="40" alt="Material UI"/></a>
+  <a href="https://www.selenium.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium"/></a>
 </p>
 
 ---
 
 ### 🗄️ Databases
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<p align="left">
+  <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/></a>
+  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/></a>
+  <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis"/></a>
+  <a href="https://neo4j.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="Neo4j"/></a>
+  <a href="https://cassandra.apache.org"><img src="https://skillicons.dev/icons?i=cassandra" height="40" alt="Cassandra"/></a>
+  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/></a>
 </p>
 
 SQL: `PostgreSQL` `MySQL` | NoSQL: `MongoDB` `Redis` `Cassandra` `Neo4j`
@@ -230,15 +235,16 @@ SQL: `PostgreSQL` `MySQL` | NoSQL: `MongoDB` `Redis` `Cassandra` `Neo4j`
 ---
 
 ### ☁️ DevOps, MLOps & Cloud
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+<p align="left">
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/></a>
+  <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/></a>
+  <a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins"/></a>
+  <a href="https://gitlab.com"><img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab CI"/></a>
+  <a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform"/></a>
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions"/></a>
+  <a href="https://mlflow.org"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="30" alt="MLflow"/></a>
+  <a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30" alt="Oracle Cloud"/></a>
 </p>
 
 `CI/CD Pipelines` `Containerization` `Orchestration` `Infrastructure as Code` `Model Versioning` `Experiment Tracking` `Model Deployment`
@@ -246,11 +252,12 @@ SQL: `PostgreSQL` `MySQL` | NoSQL: `MongoDB` `Redis` `Cassandra` `Neo4j`
 ---
 
 ### 🔤 Other Languages
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+<p align="left">
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/></a>
+  <a href="https://www.scala-lang.org"><img src="https://skillicons.dev/icons?i=scala" height="40" alt="Scala"/></a>
+  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash"/></a>
 </p>
 
 ---
