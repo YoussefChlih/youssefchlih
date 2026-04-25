@@ -12,7 +12,7 @@
 <img src="https://github.com/YoussefChlih.png" width="120" style="border-radius:50%;border:2px solid #00D9FF;"/>
 
 ### Youssef CHLIH
-**AI Specialist Technician · Data Engineer**
+**AI Specialist Technician · Data Developer**
 
 Morocco &nbsp;·&nbsp; youssefchlih.ai@gmail.com &nbsp;·&nbsp; Available for opportunities
 
