@@ -16,11 +16,36 @@ Building data pipelines, machine learning systems, AI applications, and deployab
 
 ## Focus
 
-`Big Data` · `Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `RAG` · `MLOps`
+`Big Data` - `Machine Learning` - `Deep Learning` - `NLP` - `Computer Vision` - `RAG` - `MLOps`
 
-## Tech Stack
+## Skills
 
-`Python` · `FastAPI` · `Streamlit` · `React` · `TensorFlow` · `PyTorch` · `scikit-learn` · `SQL` · `NoSQL` · `Docker` · `GitHub Actions`
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,react,js,html,css" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,kubernetes,git,githubactions,linux" />
+
+</div>
+
+## Projects
+
+<div align="center">
+
+<a href="https://github.com/YoussefChlih/Cv-Ranking">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefChlih&repo=Cv-Ranking&theme=default&hide_border=true" />
+</a>
+<a href="https://github.com/YoussefChlih/3d-obj-rec">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefChlih&repo=3d-obj-rec&theme=default&hide_border=true" />
+</a>
+<a href="https://github.com/YoussefChlih/web_scraping_agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefChlih&repo=web_scraping_agent&theme=default&hide_border=true" />
+</a>
+<a href="https://github.com/YoussefChlih/Speech_emotion_detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefChlih&repo=Speech_emotion_detection&theme=default&hide_border=true" />
+</a>
+
+</div>
 
 ## GitHub Account
 
@@ -31,16 +56,23 @@ Building data pipelines, machine learning systems, AI applications, and deployab
 ![Stars](https://img.shields.io/github/stars/YoussefChlih?style=flat-square&logo=github)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYoussefChlih&logo=github)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YoussefChlih&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefChlih&layout=compact&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YoussefChlih&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefChlih&layout=compact&theme=default&hide_border=true&langs_count=8" />
 
 </div>
 
-## Contribution Activity
+## Push & Contribution Activity
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefChlih&theme=default&hide_border=true" />
+<br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefChlih&theme=github-compact&hide_border=true&area=true" />
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefChlih&theme=default" />
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefChlih&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefChlih&theme=default&utcOffset=1" />
 
 </div>
 
